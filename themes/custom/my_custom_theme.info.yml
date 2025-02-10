@@ -1,0 +1,10 @@
+name: 'My Custom Theme'
+type: theme
+description: 'A custom theme that depends on Gavias Edmix'
+base theme: gavias_edmix
+libraries:
+  - my_custom_theme/global-styling
+version: '1.0.0'
+core_version_requirement: ^8.8 || ^9 || ^10
+
+
