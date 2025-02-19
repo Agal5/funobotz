@@ -1,0 +1,10 @@
+global-styling:
+  css:
+    theme:
+      css/style.css: {}
+  js:
+    js/custom.js: {}
+  dependencies:
+    - gavias_edmix/global-styling
+
+
